@@ -1,4 +1,4 @@
-基于Github Page博客框架（于2019/7月开源）
+基于Github Page博客框架
 ======================
 
 完全基于前端，不包括任何后台
@@ -11,8 +11,7 @@
   * 视频微处理，以实现在线播放
   * 使用HTML5、Canvas等完成博客主体的搭建
 
-* 博客展示效果：https://xiaohegithub.cn/
-* 如何使用这套框架：https://www.zhihu.com/question/59088760/answer/161640592
+* 博客展示效果：https://honsong.cn/
 
 附
 ==
